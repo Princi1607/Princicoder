@@ -14,5 +14,5 @@ public class Practice {
         System.out.println("sum of numbers is:");
         System.out.println(sum);
         }
-
+    // Winter has started
 }
